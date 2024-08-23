@@ -10,7 +10,7 @@ module.exports = {
         headingcolor: '#2a7874',
         secondary: {
           DEFAULT: "#F863BF",
-          100: "#D968AA",
+          200: "#D968AA",
           200: "#FF8E01",
         },
         blackgray: {
